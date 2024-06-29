@@ -2,7 +2,15 @@
 export default defineNuxtConfig({
   devtools: { enabled: true },
 
-  modules: ['@nuxt/eslint'],
+	css: [
+		'@unocss/reset/tailwind.css',
+	],
+
+	features: {
+		inlineStyles: false,
+	},
+
+	modules: ['@nuxt/eslint', '@unocss/nuxt'],
 
   eslint: {
     config: {

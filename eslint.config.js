@@ -5,6 +5,7 @@ export default nuxt(
   antfu(
     {
       formatters: true,
+			unocss: true
     },
   ),
 )
