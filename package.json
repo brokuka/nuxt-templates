@@ -8,5 +8,17 @@
 		"generate": "nuxt generate",
 		"preview": "nuxt preview",
 		"postinstall": "nuxt prepare"
+	},
+	"dependencies": {
+		"class-variance-authority": "^0.7.0",
+		"clsx": "^2.1.1",
+		"lucide-vue-next": "latest",
+		"radix-vue": "latest",
+		"tailwind-merge": "^2.3.0"
+	},
+	"devDependencies": {
+		"shadcn-nuxt": "latest",
+		"unocss-preset-animations": "latest",
+		"unocss-preset-shadcn": "latest"
 	}
 }
