@@ -10,7 +10,7 @@ export default defineNuxtConfig({
 		inlineStyles: false,
 	},
 
-	modules: ['@nuxt/eslint', '@unocss/nuxt', 'shadcn-nuxt'],
+	modules: ['@nuxt/eslint', '@unocss/nuxt', 'shadcn-nuxt', 'template-copyright'],
 
   eslint: {
     config: {
