@@ -2,7 +2,7 @@
 export default defineNuxtConfig({
   devtools: { enabled: true },
 
-	modules: ['@nuxt/eslint', 'template-copyright'],
+	modules: ['@nuxt/eslint', '@nuxtjs/tailwindcss', 'template-copyright'],
 
   eslint: {
     config: {
