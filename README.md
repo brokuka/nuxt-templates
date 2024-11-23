@@ -14,6 +14,7 @@ Repository is used for [CLI](https://github.com/brokuka/nuxt-starter), all templ
 - [default](https://github.com/brokuka/nuxt-templates/tree/v3)
 - [unocss](https://github.com/brokuka/nuxt-templates/tree/v3-unocss)
 - [unocss with shadcn-vue](https://github.com/brokuka/nuxt-templates/tree/v3-unocss-shadcn)
+- [tailwind](https://github.com/brokuka/nuxt-templates/tree/v3-tailwind)
 
 **v4:**
 
