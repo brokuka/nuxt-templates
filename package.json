@@ -11,7 +11,6 @@
 	},
 	"dependencies": {
 		"class-variance-authority": "^0.7.0",
-		"clsx": "^2.1.1",
 		"lucide-vue-next": "latest",
 		"radix-vue": "latest",
 		"tailwind-merge": "^2.3.0"
