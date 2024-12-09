@@ -2,11 +2,15 @@
 export default defineNuxtConfig({
   devtools: { enabled: true },
 
-	modules: ['@nuxt/eslint', '@nuxtjs/tailwindcss', 'template-copyright'],
+  modules: ['@nuxt/eslint', '@nuxtjs/tailwindcss', 'template-copyright'],
 
   eslint: {
     config: {
       standalone: false,
     },
+  },
+
+  tailwindcss: {
+    cssPath: '~/assets/styles/tailwind.css',
   },
 })
